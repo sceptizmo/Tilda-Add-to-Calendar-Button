@@ -53,7 +53,7 @@
 
 MIT
 
-## Автор
+## Сгенерировал и протестировал код
 
-Автор: [@sceptizmo](https://github.com/sceptizmo)  
-Сайт: [sceptizmo.net](https://sceptizmo.net/?utm_source=github)
+[@sceptizmo](https://github.com/sceptizmo)  
+[sceptizmo.net](https://sceptizmo.net/?utm_source=github)
