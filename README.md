@@ -52,3 +52,8 @@
 ## Лицензия
 
 MIT
+
+## Автор
+
+Автор: sceptizmo  
+Сайт: http://sceptizmo.net/
